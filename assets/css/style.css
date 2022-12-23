@@ -203,5 +203,16 @@ hr {
     border-radius: 50%;
 }
 
+/* festivals events */
+
+#festivals {
+    background-image: url(../images/festival\ Image.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    overflow: hidden;
+}
+
 
 
