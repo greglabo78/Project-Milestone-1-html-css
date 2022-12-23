@@ -120,7 +120,7 @@ h1, h2 {
 /* travel ethos */
 
 #travel-ethos {
-    height: 1100px;
+    height: 1000px;
     
 }
 
@@ -212,6 +212,22 @@ hr {
     background-position: center;
     width: 100%;
     overflow: hidden;
+}
+
+#festivals div {
+    color: #fafafa;
+    background-color: rgba(0, 0, 0, .6);
+    width: 20%;
+    height: 300px;
+    float: left;
+    padding: 30px 0 0 10px;
+    text-align: center;
+    border: 2px solid white;
+    box-sizing: border-box;
+}
+
+#festivals h2 {
+    color: #fafafa;
 }
 
 
