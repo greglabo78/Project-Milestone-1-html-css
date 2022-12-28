@@ -1,6 +1,7 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+A Trip to Japan
+================
+![screenshot](/assets/images/screenshot.png "Title")
 
-Welcome greglabo78,
 
 This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
 
@@ -106,3 +107,6 @@ Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` f
 ---
 
 Happy coding!
+
+
+[def]: assets/images/screenshot.png
