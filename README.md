@@ -2,8 +2,7 @@
 
 ![screenshot](/assets/images/screenshot.png "Title")
 
-Table of contents
-------------------
+## Table of contents
 * Introduction
 * Features
 * Technology
@@ -18,8 +17,7 @@ Table of contents
 *  Deployment
 *  Credits and Acknowledgement
 
-Introduction
-------------
+## Introduction
 The purpose of Trip to Japan is to brign to the users consciousness the wonders that are available in the beautiful island country of japan. The site elightens the user of what is acheiveable on a trip to this beautiful country, it specifically highlights in a package all the events and festivals with popular tourist locatios in one pacakage. Also giving the user the optiosn to make thier own custiomised selections based of the ideas that have been embedded in the site. The site is packaged with all the necessary details for the user to on thier own build a travel package and also any other details that they may have that is not included on the site to prompt futrther discussions relating to budget and so on. The sites consists of three web pages ( Home, Sites & Book a Trip).
 
 ![Home page Screenshot](/assets/images/site-screenshots/Home%20page%201.png "Title")
@@ -28,8 +26,8 @@ The purpose of Trip to Japan is to brign to the users consciousness the wonders 
 
 ![Footer](/assets/images/site-screenshots/Home%20page%20footer.png "Title")
 
-Features
----------
+## Features
+
 This sections gives an in depth description of the elements that come together to meet the goal of the site.
 
 ### Menu (Navigation Bar)
@@ -55,13 +53,11 @@ This sections gives an in depth description of the elements that come together t
 > This is the page where all the ideas from the user suggested experince is collated it encompasses a form that enables the user to customize what experince they would like to have taken in details such as thier names, address, duration of stay, and any other customised details to make them have the fufilled experince they intended.
 ![Booking Page](/assets/images/site-screenshots/Booking%20Page.png "Title")
 
-Technology
------------
+## Technology
 * HTML
 * CSS
 
-Testing
---------
+## Testing
 * CSS
     * No errors were discovered (Jigsaw) validator
 
@@ -73,8 +69,7 @@ Testing
     
 ![accessibility checker](/assets/images/site-screenshots/Accessibility%20Lighthouse.png "Title")
 
-Browser Compatibilty Checks
----------------------------
+## Browser Compatibilty Checks
 * Google Chrome
 * Safari
 * Microsoft Edge
@@ -94,9 +89,7 @@ The site was deployed on Microsoft Edge and had no issues.
 
 ![accessibility checker](/assets/images/Microsoft%20edge%20Test.jpg "Title")
 
-Mannual Testing
----------------
-
+## Mannual Testing
 The responsive features embeded into the site were also manually tested for diffrent screen sizes.
 
 * For small screen sizes 
@@ -112,13 +105,12 @@ The responsive features embeded into the site were also manually tested for diff
 ![accessibility checker](/assets/images/Larger%20screens.png "Title")
 
 
-Bugs
-----
-No unresolved bugs
+## Bugs
+During the accessibility testing, the performance of the site was flagged at a very low score and the diagnosis revealed that the thrid-party elements were affecting the performance
+of the site. this will need to be resolved but is not a criteria to delay deployment for submission.
 
 
-Deployement
------------
+## Deployement
 The site was deployed to Github pages. The steps to deploy are as folllows:
 - In the Github repository, navigate to the settings tab
 - Select the pages link in the sidebar
@@ -128,8 +120,7 @@ The site was deployed to Github pages. The steps to deploy are as folllows:
 The live link to the website can be found [here](https://greglabo78.github.io/Project-Milestone-1-html-css/)
 
 
-Credits and Acknoledgements
----------------------------
+## Credits and Acknoledgements
 All Icons embeded on the website were taken from [Font Awesome](https://fontawesome.com/)
 
 The images used were all open sourced from various free website offerings
