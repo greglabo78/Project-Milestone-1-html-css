@@ -136,6 +136,8 @@ The images used were all open sourced from various free website offerings
 
 Masonary formatting of section for images on site page - Tutorial from [Code institute](https://codeinstitute.net/)
 
+The code structure for this project was taken from Love running project - [Code Institute](https://codeinstitute.net)
+
 
 
 
