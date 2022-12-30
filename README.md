@@ -62,21 +62,96 @@ Technology
 
 Testing
 --------
-CSS
+* CSS
     * No errors were discovered (Jigsaw) validator
 
-HTML
+* HTML
     * No errors were found on W3C validator
 
-Accessibility
+* Accessibility
     * deque online accessability cheker was used and no erros were detected.
-    ![accessibility checker](/assets/images/site-screenshots/accessibility%20checks.png "Title")
+    
+![accessibility checker](/assets/images/site-screenshots/accessibility%20checks.png "Title")
 
-### Browser Compatibility tests
+Browser Compatibilty Checks
+---------------------------
 * Google Chrome
 * Safari
 * Microsoft Edge
 
+### Google Chrome
+The site was deployed on google chrome and had no issues.
+
+![google chrome](/assets/images/Google%20chrome.png "Title")
+
+### Safari
+The site was deployed on safari and had no issues.
+
+![accessibility checker](/assets/images/Safari.png "Title")
+
+### Micorsoft Edge
+The site was deployed on Microsoft Edge and had no issues.
+
+![accessibility checker](/assets/images/Microsoft%20edge%20Test.jpg "Title")
+
+Mannual Testing
+---------------
+
+The responsive features embeded into the site were also manually tested for diffrent screen sizes.
+
+* For small screen sizes 
+
+![accessibility checker](/assets/images/small%20screen.png "Title")
+
+* For medium screen sizes 
+
+![accessibility checker](/assets/images/Medium%20Screens.png "Title")
+
+*  For larger to medium screen sizes 
+
+![accessibility checker](/assets/images/Larger%20screens.png "Title")
 
 
-[def]: assets/images/screenshot.png
+Bugs
+----
+No unresolved bugs
+
+
+Deployement
+-----------
+This is a description of the process of deploying the site to a live enviroment, running in an enviroment to work on the site or retrieve copies of the website files.
+
+### Local Deployment
+
+- Go to [Gitpod](https://www.gitpod.io/)
+- Login using Github Account
+- Download and install the Gitpod browser extension
+- Return to repository
+- Select the green Gitpod button in green 
+
+
+### Remote Deployment
+- In the Github repository, navigate to the settings tab
+- Select the pages link in the sidebar
+- Under "Build and deployment" under "branch" use the none or branch drop-down menu and select publishing source
+- Once the master branch has been selected, the page will automatically refresh with a detailed ribbon display to show a successful deplyment
+
+
+### Cloning and Forking
+- At the top of the repository page, select fork and choose a name for the new repository to create a copy
+- As an alternative select the code from the file viewer and use the link to pull a copy of the code.
+
+The live link to the Project can be found [here]()
+
+
+Credits and Acknoledgements
+---------------------------
+All Icons embeded on the website were taken from [Font Awesome](https://fontawesome.com/)
+
+The images used were all open sourced from various free website offerings
+
+Masonary formatting of section for images on site page - Tutorial from [Code institute](https://codeinstitute.net/)
+
+
+
+
