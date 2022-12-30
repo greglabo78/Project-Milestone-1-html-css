@@ -69,9 +69,9 @@ Testing
     * No errors were found on W3C validator
 
 * Accessibility
-    * deque online accessability cheker was used and no erros were detected.
+    * lighthouse online accessibility cheker was used and low performance was detected.
     
-![accessibility checker](/assets/images/site-screenshots/accessibility%20checks.png "Title")
+![accessibility checker](/assets/images/site-screenshots/Accessibility%20Lighthouse.png "Title")
 
 Browser Compatibilty Checks
 ---------------------------
