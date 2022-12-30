@@ -119,29 +119,13 @@ No unresolved bugs
 
 Deployement
 -----------
-This is a description of the process of deploying the site to a live enviroment, running in an enviroment to work on the site or retrieve copies of the website files.
-
-### Local Deployment
-
-- Go to [Gitpod](https://www.gitpod.io/)
-- Login using Github Account
-- Download and install the Gitpod browser extension
-- Return to repository
-- Select the green Gitpod button in green 
-
-
-### Remote Deployment
+The site was deployed to Github pages. The steps to deploy are as folllows:
 - In the Github repository, navigate to the settings tab
 - Select the pages link in the sidebar
 - Under "Build and deployment" under "branch" use the none or branch drop-down menu and select publishing source
 - Once the master branch has been selected, the page will automatically refresh with a detailed ribbon display to show a successful deplyment
 
-
-### Cloning and Forking
-- At the top of the repository page, select fork and choose a name for the new repository to create a copy
-- As an alternative select the code from the file viewer and use the link to pull a copy of the code.
-
-The live link to the Project can be found [here](https://greglabo78.github.io/Project-Milestone-1-html-css/)
+The live link to the website can be found [here](https://greglabo78.github.io/Project-Milestone-1-html-css/)
 
 
 Credits and Acknoledgements
