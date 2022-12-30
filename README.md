@@ -1,5 +1,5 @@
-A Trip to Japan
-================
+# A Trip to Japan
+
 ![screenshot](/assets/images/screenshot.png "Title")
 
 Table of contents
