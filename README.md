@@ -141,7 +141,7 @@ This is a description of the process of deploying the site to a live enviroment,
 - At the top of the repository page, select fork and choose a name for the new repository to create a copy
 - As an alternative select the code from the file viewer and use the link to pull a copy of the code.
 
-The live link to the Project can be found [here]()
+The live link to the Project can be found [here](https://greglabo78.github.io/Project-Milestone-1-html-css/)
 
 
 Credits and Acknoledgements
